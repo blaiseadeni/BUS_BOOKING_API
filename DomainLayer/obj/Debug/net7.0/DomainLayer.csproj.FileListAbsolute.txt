@@ -1,0 +1,11 @@
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\bin\Debug\net7.0\DomainLayer.deps.json
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\bin\Debug\net7.0\DomainLayer.dll
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\bin\Debug\net7.0\DomainLayer.pdb
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\DomainLayer.AssemblyInfo.cs
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\DomainLayer.dll
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\refint\DomainLayer.dll
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\DomainLayer.pdb
+D:\Projects\dotnet\D\BUS_BUS\BUS_BOOKING\DomainLayer\obj\Debug\net7.0\ref\DomainLayer.dll

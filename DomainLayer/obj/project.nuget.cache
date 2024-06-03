@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/Q+qmwDH7w5RFE6MuKq9oKTN64psJFDhsRTm2ae8LT+tCXtlPqcScIWJqSKfVeFu6WLy39hY5ppKasJf74sOA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\dotnet\\D\\BUS_BUS\\BUS_BOOKING\\DomainLayer\\DomainLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LomoTech\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\LomoTech\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\LomoTech\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
